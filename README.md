@@ -9,7 +9,7 @@
 
 
 ## Как с ней работать?
-1. Скачать архив **StopChaosExe.zip** к себе на компьютер.  Можно [ТУТ](https://drive.google.com/open?id=1VIveJf1oEmHHuopd2QcNhZD936iPMvrW "ТУТ") или из проекта на GitHub.
+1. Скачать архив **StopChaosExe.zip** к себе на компьютер.  Можно [ТУТ](https://github.com/DaichiRyuu/StopChaos/releases/download/v1.0/StopChaosExe.zip "ТУТ") или из проекта на GitHub.
 
 2. Распаковать архив StopChaosExe.zip в любое удобное для вас место.
 
