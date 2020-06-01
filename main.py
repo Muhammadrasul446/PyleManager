@@ -47,5 +47,7 @@ try:
         time.sleep(1000)
 except KeyboardInterrupt:
     observer.stop()
+except:
+    print("WTF are you doing?? Check whether everything is correct and then re-run!!!")
 
 observer.join()
